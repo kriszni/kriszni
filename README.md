@@ -1,4 +1,4 @@
-# Hi, I'm Kris (Ziquan) 👋
+# Hi, I'm Kris (Ziqian) 👋
 
 Computer Science student at **Northwestern University**. I work at the boundary between software and hardware, mostly on embedded firmware, systems code in C, and tooling that turns raw sensor data into something usable.
 
